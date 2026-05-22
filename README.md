@@ -23,7 +23,7 @@ checklists/
 
 ## Related Writing
 
-Coming soon.
+- [인수인계 문서는 코드 설명서가 아니라 운영 지도다](https://studydad.co.kr/203)
 
 ## Safety
 
