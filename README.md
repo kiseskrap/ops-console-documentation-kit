@@ -21,6 +21,10 @@ checklists/
 
 - Documentation and handover
 
+## Related Writing
+
+Coming soon.
+
 ## Safety
 
 All examples are generic. Do not include real company names, production domains, bucket names, API IDs, database hosts, credentials, or customer information when using these templates.
