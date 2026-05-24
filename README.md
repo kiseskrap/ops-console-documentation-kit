@@ -25,6 +25,7 @@ checklists/
 
 - [인수인계 문서는 코드 설명서가 아니라 운영 지도다](https://studydad.co.kr/203)
 - [HANDOVER.md에 꼭 들어가야 하는 항목들](https://studydad.co.kr/204)
+- [README, 아키텍처 문서, HANDOVER는 역할이 다르다](https://studydad.co.kr/205)
 
 ## Safety
 
